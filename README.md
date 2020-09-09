@@ -11,7 +11,7 @@
 [Tonnetz](https://librosa.org/doc/latest/generated/librosa.feature.tonnetz.html#librosa.feature.tonnetz).
 
 ### Models Used - 
-* A CNN model with layers of **CONV2D ---> MAXPOOL ---> CONV2D ---> MAXPOOL ---> DENSE ---> DENSE ---> SOFTMAX**.The first layer of Conv2d uses 64 filters with the dimension of (5*1*1) which is placed on the input shape of (20*5*1). After that a maxpool layer is applied followed by another CONV2D layer and so on. Finally a softmax layer is used at the end to classify between the 10 classes. We have used the adam optimizer which is the most optimized algorithm to calculate the cost.
+* A CNN model with layers of **CONV2D ---> MAXPOOL ---> CONV2D ---> MAXPOOL ---> DENSE ---> DENSE ---> SOFTMAX**.The first layer of Conv2d uses 64 filters with the dimension of (5\*1\*1) which is placed on the input shape of (20\*5\*1). After that a maxpool layer is applied followed by another CONV2D layer and so on. Finally a softmax layer is used at the end to classify between the 10 classes. We have used the adam optimizer which is the most optimized algorithm to calculate the cost.
 * A LSTM model 
 
 
