@@ -13,8 +13,8 @@ Urban Sound Classification Using Convolutional Neural Network and Long Short Ter
 [Chroma Cens](https://librosa.org/doc/latest/generated/librosa.feature.chroma_cens.html#librosa.feature.chroma_cens), [Spectral Contrast](https://librosa.org/doc/latest/generated/librosa.feature.spectral_contrast.html#librosa.feature.spectral_contrast),
 [Tonnetz](https://librosa.org/doc/latest/generated/librosa.feature.tonnetz.html#librosa.feature.tonnetz).
 <p float="left">
-  <img src="https://github.com/JoyKrishan/UrbanSound-classification-using-2types-of-Deep-Models-and-different-audio-features/blob/master/images/Mfccfeaturedetailed.PNG" width="100" />
-  <img src="https://github.com/JoyKrishan/UrbanSound-classification-using-2types-of-Deep-Models-and-different-audio-features/blob/master/images/melspectrogram.PNG" width="100" /> 
+  <img src="https://github.com/JoyKrishan/UrbanSound-classification-using-2types-of-Deep-Models-and-different-audio-features/blob/master/images/Mfccfeaturedetailed.PNG" width="500" />
+  <img src="https://github.com/JoyKrishan/UrbanSound-classification-using-2types-of-Deep-Models-and-different-audio-features/blob/master/images/melspectrogram.PNG" width="500" /> 
 </p>
 
 
