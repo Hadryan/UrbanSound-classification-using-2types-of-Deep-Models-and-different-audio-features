@@ -34,6 +34,10 @@ Urban Sound Classification Using Convolutional Neural Network and Long Short Ter
 ### Models Used:
 * A CNN model with layers of **CONV2D ---> MAXPOOL ---> CONV2D ---> MAXPOOL ---> DENSE ---> DENSE ---> SOFTMAX**.The first layer of Conv2d uses 64 filters with the dimension of (5\*1\*1) which is placed on the input shape of (20\*5\*1). After that a maxpool layer is applied followed by another CONV2D layer and so on. Finally a softmax layer is used at the end to classify between the 10 classes. We have used the adam optimizer which is the most optimized algorithm to calculate the cost.
 
+<p float="center">
+  <img src="https://github.com/JoyKrishan/UrbanSound-classification-using-2types-of-Deep-Models-and-different-audio-features/blob/master/images/img16CNN%20Final%20Model.jpg", width="700" alt="CNN model"/>
+  </p>
+
 * A LSTM model with layers of 2 LSTM blocks, 2 time distributed dense layers and finally a output layer for classification.
 **LSTM ---> LSTM ---> DENSE ---> DENSE ---> SOFTMAX**. The first and the second lstm layer contains 128 blocks which returns 128 yHat values from the given x values. The values from the LSTM layes are passed onto Dense layer and then to the output layer. Here we use an adam optimizer so that the model converges faster.
 
