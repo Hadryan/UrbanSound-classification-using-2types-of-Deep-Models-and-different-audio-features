@@ -13,22 +13,22 @@ Urban Sound Classification Using Convolutional Neural Network and Long Short Ter
 [Chroma Cens](https://librosa.org/doc/latest/generated/librosa.feature.chroma_cens.html#librosa.feature.chroma_cens), [Spectral Contrast](https://librosa.org/doc/latest/generated/librosa.feature.spectral_contrast.html#librosa.feature.spectral_contrast),
 [Tonnetz](https://librosa.org/doc/latest/generated/librosa.feature.tonnetz.html#librosa.feature.tonnetz).
 <p float="left">
-  <img src="https://github.com/JoyKrishan/UrbanSound-classification-using-2types-of-Deep-Models-and-different-audio-features/blob/master/images/Mfccfeaturedetailed.PNG" width="500" alt="MFCC of Dog Bark" />
-  <img src="https://github.com/JoyKrishan/UrbanSound-classification-using-2types-of-Deep-Models-and-different-audio-features/blob/master/images/melspectrogram.PNG" width="500" alt="Mel Spectogram of Dog Bark" /> 
+  <img src="https://github.com/JoyKrishan/UrbanSound-classification-using-2types-of-Deep-Models-and-different-audio-features/blob/master/images/Mfccfeaturedetailed.PNG" width="400" alt="MFCC of Dog Bark" />
+  <img src="https://github.com/JoyKrishan/UrbanSound-classification-using-2types-of-Deep-Models-and-different-audio-features/blob/master/images/melspectrogram.PNG" width="400" alt="Mel Spectogram of Dog Bark" /> 
 </p>
 
 <p float="left">
-  <img src="https://github.com/JoyKrishan/UrbanSound-classification-using-2types-of-Deep-Models-and-different-audio-features/blob/master/images/chroma_stft.PNG" width="500" alt="Chroma STFT of Dog Bark"/>
-  <img src="https://github.com/JoyKrishan/UrbanSound-classification-using-2types-of-Deep-Models-and-different-audio-features/blob/master/images/chromacqt.PNG" width="500" alt="Chroma CQT of Dog Bark"/> 
+  <img src="https://github.com/JoyKrishan/UrbanSound-classification-using-2types-of-Deep-Models-and-different-audio-features/blob/master/images/chroma_stft.PNG" width="400" alt="Chroma STFT of Dog Bark"/>
+  <img src="https://github.com/JoyKrishan/UrbanSound-classification-using-2types-of-Deep-Models-and-different-audio-features/blob/master/images/chromacqt.PNG" width="400" alt="Chroma CQT of Dog Bark"/> 
 </p>
 
 <p float="left">
-  <img src="https://github.com/JoyKrishan/UrbanSound-classification-using-2types-of-Deep-Models-and-different-audio-features/blob/master/images/cens.PNG" width="500" alt="Chroma Cens of Dog Bark"/>
-  <img src="https://github.com/JoyKrishan/UrbanSound-classification-using-2types-of-Deep-Models-and-different-audio-features/blob/master/images/spectral.PNG" width="500" alt="Spectral Contrast of Dog Bark"/> 
+  <img src="https://github.com/JoyKrishan/UrbanSound-classification-using-2types-of-Deep-Models-and-different-audio-features/blob/master/images/cens.PNG" width="400" alt="Chroma Cens of Dog Bark"/>
+  <img src="https://github.com/JoyKrishan/UrbanSound-classification-using-2types-of-Deep-Models-and-different-audio-features/blob/master/images/spectral.PNG" width="400" alt="Spectral Contrast of Dog Bark"/> 
 </p>
 
 <p float="left">
-  <img src="https://github.com/JoyKrishan/UrbanSound-classification-using-2types-of-Deep-Models-and-different-audio-features/blob/master/images/tonnetz.PNG" width="500" alt="Chroma Cens of Dog Bark"/></p>
+  <img src="https://github.com/JoyKrishan/UrbanSound-classification-using-2types-of-Deep-Models-and-different-audio-features/blob/master/images/tonnetz.PNG" width="400" alt="Chroma Cens of Dog Bark"/></p>
 
 
 ### Models Used:
