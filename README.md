@@ -6,7 +6,7 @@ Urban Sound Classification Using Convolutional Neural Network and Long Short Ter
 ### Dataset: 
 [Urban Sound Classification](https://urbansounddataset.weebly.com/urbansound8k.html). For detailed explaination about the dataset and the methods used to clean and compile it please read this [paper](http://www.justinsalamon.com/uploads/4/3/9/4/4394963/salamon_urbansound_acmmm14.pdf).
 
-<### Audio features(Spectral features) extracted:
+### Audio features(Spectral features) extracted:
 [MFCC](https://librosa.org/doc/latest/generated/librosa.feature.mfcc.html#librosa.feature.mfcc), 
 [Mel Spectrogram](https://librosa.org/doc/latest/generated/librosa.feature.melspectrogram.html#librosa.feature.melspectrogram), 
 [Chroma STFT](https://librosa.org/doc/latest/generated/librosa.feature.chroma_stft.html#librosa.feature.chroma_stft), [Chroma CQT](https://librosa.org/doc/latest/generated/librosa.feature.chroma_cqt.html#librosa.feature.chroma_cqt), 
