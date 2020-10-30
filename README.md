@@ -45,7 +45,7 @@ Urban Sound Classification Using Convolutional Neural Network and Long Short Ter
   </p>
 
 ### FlowChart:
-![]()
+![Flow of the total work](https://github.com/JoyKrishan/UrbanSound-classification-using-2types-of-Deep-Models-and-different-audio-features/blob/master/images/Capture.JPG)
 
 
 
